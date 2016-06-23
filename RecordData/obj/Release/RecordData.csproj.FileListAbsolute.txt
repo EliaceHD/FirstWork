@@ -1,0 +1,6 @@
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\bin\Release\RecordData.exe.config
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\obj\Release\RecordData.csprojResolveAssemblyReference.cache
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\bin\Release\RecordData.exe
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\bin\Release\RecordData.pdb
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\obj\Release\RecordData.exe
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\obj\Release\RecordData.pdb

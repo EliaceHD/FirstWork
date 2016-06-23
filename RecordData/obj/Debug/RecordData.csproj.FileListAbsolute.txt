@@ -1,0 +1,9 @@
+c:\users\dxq0304\documents\visual studio 2015\Projects\RecordData\RecordData\bin\Debug\RecordData.exe
+c:\users\dxq0304\documents\visual studio 2015\Projects\RecordData\RecordData\bin\Debug\RecordData.pdb
+c:\users\dxq0304\documents\visual studio 2015\Projects\RecordData\RecordData\obj\Debug\RecordData.csprojResolveAssemblyReference.cache
+c:\users\dxq0304\documents\visual studio 2015\Projects\RecordData\RecordData\obj\Debug\RecordData.exe
+c:\users\dxq0304\documents\visual studio 2015\Projects\RecordData\RecordData\obj\Debug\RecordData.pdb
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\bin\Debug\RecordData.exe.config
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\obj\Debug\RecordData.csproj.ResolveComReference.cache
+C:\Users\dxq0304\Documents\Visual Studio 2015\Projects\RecordData\RecordData\bin\Debug\Interop.zkemkeeper.dll
